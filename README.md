@@ -1,13 +1,15 @@
 <div align="center">
   <img src="https://iili.io/JdBUxQs.md.png" width="60" height="60">
   <h1>𝐙𝐞𝐥𝐭 𝐍𝐚𝐦𝐢𝐳𝐚𝐤𝐞</h1>
-  <i>ᗯ E ᒪ ᑕ O ᗰ E  T O ᗰ Y ᑭ ᖇ O ᖴ I ᒪ E</i>
+
+  ### About Me
+  Hello everyone, I'm Zelt Namizake
+  I like coding (code writing), The first time I liked learning this was because I saw several people who could create website pages and create programs using certain languages
+
+  I became interested and started learning the basics such as HTML5, CSS3 and Javascript.Until now I am still studying it because there is still a lot I don't know
 </div>
-<ul><u>About Me:</u>
-  <li>Name : Zelt Namizake<b> (Dryashz)</b></li>
-  <li>Country : Indonesian🇮🇩</li>
-  <li>Hobby : Coding<strong>(Still learning)</strong></li>
-</ul>
+
+
 
 ## Basic And Framework
 <div align="left" margin="12px">
@@ -23,13 +25,10 @@
 </div>
 
 ### Social Media
-<div align="left">
-  
   <a href="https://m.youtube.com/@Zelt71">
   <img alt="Static Badge" src="https://img.shields.io/badge/Zelt%20Namizake-%23FF0000?style=plastic&logo=youtube">
   </a>
-
+<br>
   <a href="https://www.instagram.com/zeltnamizake?utm_source=qr&igshid=ZTM4ZDRiNzUwMw==">
-    <img alt="Static Badge" src="https://img.shields.io/badge/zeltnamizake-%23f01879?style=plastic&logo=instagram&logoColor=white&color=%23f01879">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Zelt Namizake-%23f01879?style=plastic&logo=instagram&logoColor=white&color=%23f01879">
   </a>
-</div>
