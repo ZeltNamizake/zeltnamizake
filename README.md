@@ -4,7 +4,7 @@
   <i>ᗯ E ᒪ ᑕ O ᗰ E  T O ᗰ Y ᑭ ᖇ O ᖴ I ᒪ E</i>
 </div>
 <ul><u>About Me:</u>
-  <li>Name : Zelt Namizake</li>
+  <li>Name : Zelt Namizake<b> (Dryashz)</b></li>
   <li>Country : Indonesian🇮🇩</li>
   <li>Hobby : Coding<strong>(Still learning)</strong></li>
 </ul>
@@ -19,7 +19,11 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black&color=%23F7DF1E">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/BOOTSTRAP-%237952B3?style=for-the-badge&logo=bootstrap&labelColor=black">
-
 </p>
-  
+</div>
+
+### Social Media
+<div align="left">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Zelt%20Namizake-%23FF0000?style=plastic&logo=youtube&link=https%3A%2F%2Fm.youtube.com%2F%40Zelt71">
+
 </div>
