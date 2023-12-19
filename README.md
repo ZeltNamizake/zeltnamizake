@@ -24,7 +24,12 @@
 
 ### Social Media
 <div align="left">
+  
   <a href="https://m.youtube.com/@Zelt71">
   <img alt="Static Badge" src="https://img.shields.io/badge/Zelt%20Namizake-%23FF0000?style=plastic&logo=youtube">
+  </a>
+
+  <a href="https://www.instagram.com/zeltnamizake?utm_source=qr&igshid=ZTM4ZDRiNzUwMw==">
+    <img alt="Static Badge" src="https://img.shields.io/badge/zeltnamizake-%23f01879?style=plastic&logo=instagram&logoColor=white&color=%23f01879">
   </a>
 </div>
