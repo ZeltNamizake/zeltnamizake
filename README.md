@@ -24,6 +24,7 @@
 
 ### Social Media
 <div align="left">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Zelt%20Namizake-%23FF0000?style=plastic&logo=youtube&link=https%3A%2F%2Fm.youtube.com%2F%40Zelt71">
-
+  <a href="https://m.youtube.com/@Zelt71">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Zelt%20Namizake-%23FF0000?style=plastic&logo=youtube">
+  </a>
 </div>
