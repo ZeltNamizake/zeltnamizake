@@ -8,6 +8,8 @@
   <li>Country : Indonesian🇮🇩</li>
   <li>Hobby : Coding<strong>(Still learning)</strong></li>
 </ul>
+
+## Basic And Framework
 <div align="left" margin="12px">
   <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&labelColor=black">
