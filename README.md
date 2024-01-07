@@ -3,7 +3,7 @@ Hello everyone, I am Zelt Namizake, I am a student still learning the programmin
 
 <div align="center">
 
-## 🔥Language-Framework-Tools🔥
+## 🔥Language-Framework-Tools⚙
 
 <p>
   <a href="https://skillicons.dev">
