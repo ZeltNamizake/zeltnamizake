@@ -7,7 +7,7 @@ Hello everyone, I am Zelt Namizake, I am a student still learning the programmin
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,github,vscode,bash" />
   </a>
 </p>
 </p>
