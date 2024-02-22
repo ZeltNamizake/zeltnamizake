@@ -1,5 +1,5 @@
 # ZeltNamizake
-Hello everyone, I am Zelt Namizake, I am a student still learning the programming language 
+Pemula yang ingin berkarya.
 
 <div align="center">
 
