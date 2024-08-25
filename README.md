@@ -7,9 +7,9 @@ Pemula yang ingin berkarya.
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,github,vscode,bash" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,github,vscode,git" />
     <br>
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash" />
   </a>
 </p>
 </p>
