@@ -6,9 +6,9 @@ Hi, I'm Driyasz, I'm a script developer whose aim is to do software development
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,github,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,python" />
     <br>
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash" />
+    <img src="https://skillicons.dev/icons?i=bash,git,github,vscode,ubuntu,windows" />
   </a>
 </p>
 </p>
