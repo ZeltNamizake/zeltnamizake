@@ -1,6 +1,5 @@
-# ZeltNamizake
-Pemula yang ingin berkarya.
-
+# Driyasz (ZeltNamizake)
+Hi, I'm Driyasz, I'm a script developer whose aim is to do software development
 <div align="center">
 
 ## 🔥Language-Framework-Tools⚙
@@ -13,4 +12,6 @@ Pemula yang ingin berkarya.
   </a>
 </p>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeltNamizake&show_icons=true&theme=dark)
 </div>
