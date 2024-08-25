@@ -13,5 +13,5 @@ Hi, I'm Driyasz, I'm a script developer whose aim is to do software development
 </p>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeltnamizake&show_icons=true&theme=dark)
+![Driyasz GitHub stats](https://github-readme-stats.vercel.app/api?username=zeltnamizake&show_icons=true&theme=dark)
 </div>
