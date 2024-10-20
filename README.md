@@ -1,5 +1,5 @@
 # Driyas (ZeltNamizake)
-Hi, I'm Driyas, I'm a script developer whose aim is to do software development
+Hai, Saya Driyas, saya suka dengan coding terutama dalam pemrograman dan pengembangan alat agar bisa digunakan oleh semua orang 😁
 <div align="center">
 
 ## 🔥Language-Framework-Tools⚙
