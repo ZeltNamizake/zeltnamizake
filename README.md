@@ -1,5 +1,5 @@
-# Driyasz (ZeltNamizake)
-Hi, I'm Driyasz, I'm a script developer whose aim is to do software development
+# Driyas (ZeltNamizake)
+Hi, I'm Driyas, I'm a script developer whose aim is to do software development
 <div align="center">
 
 ## 🔥Language-Framework-Tools⚙
