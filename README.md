@@ -2,16 +2,29 @@
 Hai, Saya Driyas, saya suka dengan coding terutama dalam pemrograman dan pengembangan alat agar bisa digunakan oleh semua orang 😁
 <div align="center">
 
+### Social:
+<div align="center">
+<img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram">
+<img src="https://img.shields.io/badge/threads-black?style=for-the-badge&logo=threads">
+<img src="https://img.shields.io/badge/telegram-cyan?style=for-the-badge&logo=telegram">
+<br>
+<img src="https://img.shields.io/badge/youtube-ff0303?style=for-the-badge&logo=youtube">
+<img src="https://img.shields.io/badge/whatsapp-017300?style=for-the-badge&logo=whatsapp">
+</div>
+
 ## 🔥Language-Framework-Tools⚙
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs" />
     <br>
-    <img src="https://skillicons.dev/icons?i=bash,git,github,vscode,ubuntu,windows" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,windows" />
   </a>
 </p>
 </p>
 
+## My Stats
 ![Driyasz GitHub stats](https://github-readme-stats.vercel.app/api?username=zeltnamizake&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeltNamizake&layout=compact&theme=dark&hide=batchfile)
 </div>
