@@ -1,7 +1,6 @@
 # Driyas (ZeltNamizake)
-Hello Everyone, I'm Driyas and I like programming.
-I like developing CLI tools so that everyone can use them.
 <div align="center">
+Script Developer
 
 ### Social:
 <div align="center">
