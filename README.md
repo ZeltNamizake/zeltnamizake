@@ -1,6 +1,6 @@
 # Driyas (ZeltNamizake)
+Starting from a beginner to wanting to become an expert 
 <div align="center">
-Script Developer
 
 ### Social:
 <div align="center">
