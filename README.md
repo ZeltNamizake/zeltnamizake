@@ -1,5 +1,6 @@
 # Driyas (ZeltNamizake)
-Hai, Saya Driyas, saya suka dengan coding terutama dalam pemrograman dan pengembangan alat agar bisa digunakan oleh semua orang 😁
+Hello Everyone, I'm Driyas and I like programming.
+I like developing CLI tools so that everyone can use them.
 <div align="center">
 
 ### Social:
