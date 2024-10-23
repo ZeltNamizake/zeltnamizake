@@ -16,9 +16,9 @@ Hai, Saya Driyas, saya suka dengan coding terutama dalam pemrograman dan pengemb
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,git" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,windows" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,ubuntu,windows" />
   </a>
 </p>
 </p>
