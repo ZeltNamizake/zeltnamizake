@@ -14,7 +14,7 @@ Starting from a beginner to wanting to become an expert
 </p>
 
 ## My Stats
-![Driyasz GitHub stats](https://github-readme-stats.vercel.app/api?username=zeltnamizake&show_icons=true&theme=dark)
+![Driyasz GitHub stats](https://github-readme-stats.vercel.app/api?username=zeltnamizake&show_icons=true&theme=neon)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeltNamizake&layout=compact&theme=dark&hide=batchfile,html,css)
 </div>
