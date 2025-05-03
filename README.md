@@ -17,7 +17,7 @@
 ## Stats
 <div align="center">
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=zeltnamizake&hide=prs,issues,contribs&show_icons=true&theme=tokyonight)
+![Profile Stats](https://github.com/ZeltNamizake/zeltnamizake/blob/main/profile_stats.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeltNamizake&layout=compact&theme=tokyonight)
+![Language Stats](https://github.com/ZeltNamizake/zeltnamizake/blob/main/language_stats.svg)
 </div>
