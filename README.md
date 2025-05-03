@@ -1,3 +1,4 @@
+![Driyas](https://i.ibb.co/Y4FRGkSV/ezgif-72b6204d6706f6.gif)
 # Driyas (ZeltNamizake)
 Starting from a beginner to wanting to become an expert 
 <div align="center">
