@@ -19,5 +19,5 @@
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=zeltnamizake&hide=prs,issues,contribs&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeltNamizake&layout=compact&theme=tokyonight&hide=batchfile,html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeltNamizake&layout=compact&theme=tokyonight)
 </div>
