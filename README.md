@@ -11,7 +11,7 @@
 
 ## Stack and Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ruby,rails,nodejs,npm,bash,git,github,ubuntu,vscode,windows,linux&perline=5">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ruby,git,nodejs,npm,bash,express,github,ubuntu,vscode,windows,linux&perline=5">
 </div>
 
 ## Stats
