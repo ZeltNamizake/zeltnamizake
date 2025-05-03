@@ -4,7 +4,7 @@
 <h1 align="center">Hello World! I`m Driyas</h1>
 <p align="center">Developer | Gamer | Explorer</p>
 
-## 👤 About
+## About
 -   Tools dev with my ideas 💡
 -   I like learning programming languages 🧑‍💻
 -   Share information about tool and script development **<\\>**
