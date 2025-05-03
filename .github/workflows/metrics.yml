@@ -19,7 +19,7 @@ jobs:
       - name: Generate Languages SVG
         uses: lowlighter/metrics@latest
         with:
-          filename: language-stats.svg
+          filename: language_stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
@@ -29,4 +29,4 @@ jobs:
           plugin_languages_ignored: >-
            html, css
           plugin_languages_colors: javascript:yellow, ruby:red, shell:#008000
-          plugin_languages_limit: 5
+          plugin_languages_limit: 3
