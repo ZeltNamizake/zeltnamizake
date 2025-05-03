@@ -1,21 +1,21 @@
-![Driyas](https://i.ibb.co/Y4FRGkSV/ezgif-72b6204d6706f6.gif)
-# Driyas (ZeltNamizake)
-Starting from a beginner to wanting to become an expert 
+<p align="center">
+  <img src="https://github.com/ZeltNamizake/zeltnamizake/raw/refs/heads/main/zeltnamizake_banner.gif">
+</p>
+<h1 align="center">Hello World! I`m Driyas</h1>
+<p align="center">Developer | Gamer | Explorer</p>
+
+## 👤 About
+-   Tools dev with my ideas 💡
+-   I like learning programming languages 🧑‍💻
+-   Share information about tool and script development **<\\>**
+
+## Stack and Tools
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ruby,rails,nodejs,npm,bash,git,github,ubuntu,vscode,windows,linux&perline=5">
+
+## Stats
 <div align="center">
 
-## 🔥Language-Framework-Tools⚙
+![My Stats](https://github-readme-stats.vercel.app/api?username=zeltnamizake&hide=prs,issues,contribs&show_icons=true&theme=tokyonight)
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,git" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=github,vscode,ubuntu,windows" />
-  </a>
-</p>
-</p>
-
-## My Stats
-![Driyasz GitHub stats](https://github-readme-stats.vercel.app/api?username=zeltnamizake&show_icons=true&theme=neon)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeltNamizake&layout=compact&theme=dark&hide=batchfile,html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeltNamizake&layout=compact&theme=tokyonight&hide=batchfile,html,css)
 </div>
