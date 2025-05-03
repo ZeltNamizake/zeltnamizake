@@ -10,7 +10,9 @@
 -   Share information about tool and script development **<\\>**
 
 ## Stack and Tools
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ruby,rails,nodejs,npm,bash,git,github,ubuntu,vscode,windows,linux&perline=5">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,ruby,rails,nodejs,npm,bash,git,github,ubuntu,vscode,windows,linux&perline=5">
+</div>
 
 ## Stats
 <div align="center">
