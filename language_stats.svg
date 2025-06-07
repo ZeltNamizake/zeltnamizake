@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 56mb of code in 7528 edited files across 129 commits</small>
+                <small>estimation from 56mb of code in 7530 edited files across 130 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="429.51631023502125" height="8" fill="yellow"/>
-                    <rect mask="url(#languages-bar)" x="429.51631023502125" y="0" width="29.8674722717208" height="8" fill="#008000"/>
-                    <rect mask="url(#languages-bar)" x="459.383782506742" y="0" width="0.6162174932580006" height="8" fill="red"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="430.05177867271783" height="8" fill="yellow"/>
+                    <rect mask="url(#languages-bar)" x="430.05177867271783" y="0" width="29.342828147646998" height="8" fill="#008000"/>
+                    <rect mask="url(#languages-bar)" x="459.3946068203648" y="0" width="0.6053931796352036" height="8" fill="red"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>371 kB</div>
-                                <div>93.37%</div>
+                                <div>378 kB</div>
+                                <div>93.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -63,7 +63,7 @@
                             </div>
                             <small>
                                 <div>25.8 kB</div>
-                                <div>6.49%</div>
+                                <div>6.38%</div>
                             </small>
                         </div>
                     </section>
