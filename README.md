@@ -15,9 +15,4 @@
 </div>
 
 ## Stats
-<div align="center">
-
-![Profile Stats](https://github.com/ZeltNamizake/zeltnamizake/blob/main/profile_stats.svg)
-
-![Language Stats](https://github.com/ZeltNamizake/zeltnamizake/blob/main/language_stats.svg)
-</div>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ZeltNamizake&show_icons=true&theme=radical" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeltNamizake&theme=tokyonight" /> </p>
