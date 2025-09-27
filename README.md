@@ -9,6 +9,16 @@
 -   I like learning programming languages 🧑‍💻
 -   Share information about tool and script development **<\\>**
 
+## Social
+<p>
+  <a href="https://www.tiktok.com/@driyasx">
+    <img src="https://img.shields.io/badge/TikTok-Follow-black?logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://username.blogspot.com">
+    <img src="https://img.shields.io/badge/Blogger-Visit-FF5722?logo=blogger&logoColor=white"/>
+  </a>
+</p>
+
 ## Stack and Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,nodejs,npm,bash,debian,github,ubuntu,vscode,windows,linux,replit&perline=5">
