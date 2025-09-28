@@ -14,7 +14,7 @@
   <a href="https://www.tiktok.com/@driyasx">
     <img src="https://img.shields.io/badge/TikTok-Follow-black?logo=tiktok&logoColor=white"/>
   </a>
-  <a href="https://username.blogspot.com">
+  <a href="https://driyasnotes.blogspot.com">
     <img src="https://img.shields.io/badge/Blogger-Visit-FF5722?logo=blogger&logoColor=white"/>
   </a>
 </p>
