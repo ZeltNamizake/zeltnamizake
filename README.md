@@ -31,9 +31,11 @@ Hey there! I'm Driyas, also known as ZeltNamziake — a developer and digital ex
 
 
 ### Stats
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ZeltNamizake&show_icons=true&theme=highcontrast&hide=prs,issues,contribs" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ZeltNamizake&theme=highcontrast" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ZeltNamizake&theme=highcontrast"/>
+</div>
 
 ### Personal
 `“Do what you must do. Ignore what doesn’t make you grow.”`
