@@ -37,8 +37,3 @@ Hey there! I'm Driyas, also known as ZeltNamziake — a developer and digital ex
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeltNamizake&theme=highcontrast"/>
 </div>
 
-### 🧠 Personal
-`“Do what you must do. Ignore what doesn’t make you grow.”`
-
-I don’t chase trends — I chase understanding. I believe in learning from the core, even if it means taking the hard way. I like to understand the behavior, structure, and meaning behind things. Exploration keeps me balanced, and creation keeps me alive.
-
