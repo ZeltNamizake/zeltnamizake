@@ -32,6 +32,8 @@ Hey there! I'm Driyas, also known as ZeltNamziake — a developer and digital ex
 
 ### 📊 Stats
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeltnamizake&theme=highcontrast&langs_count=8"/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=ZeltNamizake&show_icons=true&theme=highcontrast&hide=prs,issues,contribs" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeltNamizake&theme=highcontrast"/>
