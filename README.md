@@ -32,11 +32,8 @@ Hey there! I'm Driyas, also known as ZeltNamziake — a developer and digital ex
 
 ### 📊 Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeltnamizake&theme=highcontrast&langs_count=8"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeltNamizake&show_icons=true&theme=highcontrast&hide=prs,issues,contribs" />
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/zeltnamizake?cardType=level&theme=highcontrast&fontFamily=Google%20Sans&preferLogin=false&Title=DDDDDD&Ring=02FFFD)](https://git.io/awesome-stats-card)
 </div>
 
 <div align="center">
