@@ -5,13 +5,14 @@
 <div align="center">
   
 ## Driyas (ZeltNamizake)
-`Developer`  `Explorer`
+`CLI Tool Builder`  `System-Focused`
 
 </div>
 
 ### 👤 About
-Hey there! I'm Driyas, also known as ZeltNamziake — a developer and digital explorer who loves diving deep into systems, experimenting with code, and discovering how technology truly works beneath the surface.I explore the boundaries between creativity and logic. Most of my projects focus on developing Termux systems or tools to help Android users, and I also focus on developing Node.js-based tools.
+I like building, exploring, and experimenting with systems.
 
+Mostly working with CLI tools and Termux environments.
 
 <div>
 
