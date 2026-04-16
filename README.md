@@ -14,22 +14,8 @@ I like building, exploring, and experimenting with systems.
 
 Mostly working with CLI tools and Termux environments.
 
-<div>
-
 ### ⚙ Stack
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-<img src="https://go.dev/images/gophers/blue.svg" width="30" alt="Golang"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Termux.svg" alt="Termux" width="40" height="40"/>
-
-</div>
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,golang,bash,git,github)
 
 
 ### 📊 Stats
